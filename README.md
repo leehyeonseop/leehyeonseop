@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=react query&logoColor=black"> <img src="https://img.shields.io/badge/recoil-C2A633?style=for-the-badge&logo=recoil&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"> 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/leehyeonseop" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://www.facebook.com/profile.php?id=100080653405063" target="_blank">
